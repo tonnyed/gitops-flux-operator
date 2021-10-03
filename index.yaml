@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  tony-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-03T19:41:54.794165944+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 154c21dfa7110ecf28f6742c6470825de387f2fb91ba0f3da3f3b6fda511b95d
+    name: tony-demo
+    type: application
+    home: https://github.com/tonnyed/gitops-flux-operator.git
+    urls:
+    - release/tony-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-03T19:41:54.792571358+01:00"
