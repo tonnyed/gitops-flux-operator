@@ -8,7 +8,7 @@ entries:
     digest: 154c21dfa7110ecf28f6742c6470825de387f2fb91ba0f3da3f3b6fda511b95d
     name: tony-demo
     type: application
-    home: https://tonnyed.github.io/gitops-flux-operator/index.yaml
+    home: https://tonnyed.github.io/gitops-flux-operator
     urls:
     - release/tony-demo-0.1.0.tgz
     version: 0.1.0
